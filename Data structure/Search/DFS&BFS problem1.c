@@ -81,7 +81,7 @@ void insert_edge2(GraphType2* g2, int start2, int end2) {
 }
 
 
-#define MAX_QUEUE_SIZE 10
+#define MAX_QUEUE_SIZE 1000
 typedef int element;
 typedef struct {
 	element queue[MAX_QUEUE_SIZE];
