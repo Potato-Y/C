@@ -144,7 +144,6 @@ void bfs_mat(GraphType2* g, int v) {
 }
 
 int main() {
-	printf("201858009 유종환\n");
 	GraphType* g;
 	g = (GraphType*)malloc(sizeof(GraphType));
 	init(g);
