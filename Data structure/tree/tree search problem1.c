@@ -54,7 +54,7 @@ void inorder(TreeNode* root) {
 }
 
 int main(void) {
-	printf("201858009 유종환\n다른 문자를 입력하면 입력이 완료됩니다.\n");
+	printf("다른 문자를 입력하면 입력이 완료됩니다.\n");
 
 	TreeNode* root = NULL;
 	TreeNode* tmp = NULL;
